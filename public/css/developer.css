@@ -2028,3 +2028,14 @@ li.has-sub {
         width: 100%;
     }
 }
+.form-group.cus-protext .form-control::placeholder{
+    font-size: 15px !important;
+}
+@media screen and (max-width: 480px){
+    .login-stap-progress{
+        margin-bottom: 0px;
+    }
+    .login-stap-progress{
+        padding: 0px 20px;
+    }
+}
