@@ -1964,10 +1964,7 @@ li.has-sub {
 .login-footer-cont{
     color: #555555;
 }
-.login-page-area{
-    padding-top: 50px;
-    
-}
+
 .form-group.cus-protext .form-control{
     border: 1px solid #DBDBDB;
 }
@@ -1980,7 +1977,7 @@ li.has-sub {
     max-width: 430px;
     width: 100%;
     margin: auto;
-    margin-bottom: -30px;
+    margin-top: -30px;
 }
 .login-progress-bar{
     background: #e7e7e7;
@@ -1988,7 +1985,6 @@ li.has-sub {
     width: 100%;
     border-radius: 100px;
     overflow: hidden;
-    margin-bottom: 4px;
 }   
 .login-progress-bar-inner {
     padding: 5px 0px;
@@ -2033,7 +2029,7 @@ li.has-sub {
 }
 @media screen and (max-width: 480px){
     .login-stap-progress{
-        margin-bottom: 0px;
+        margin-top: 0px;
     }
     .login-stap-progress{
         padding: 0px 20px;
