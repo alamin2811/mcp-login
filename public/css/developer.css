@@ -1997,11 +1997,11 @@ li.has-sub {
 }
 .login-progress-bar-inner.w-50{
     width: 50%;
-    animation: progressW50 0.6s linear;
+    animation: progressW50 0.3s linear;
 }
 .login-progress-bar-inner.w-100{
     width: 100%;
-    animation: progressW100 0.6s linear;
+    animation: progressW100 0.3s linear;
 }
 .login-stap-progress .progress-bar-text{
     color: #727272;
