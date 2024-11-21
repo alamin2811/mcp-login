@@ -1977,7 +1977,8 @@ li.has-sub {
     max-width: 430px;
     width: 100%;
     margin: auto;
-    margin-top: -30px;
+    margin-top: 0px;
+    margin-bottom: 20px;
 }
 .login-progress-bar{
     background: #e7e7e7;
@@ -1987,7 +1988,7 @@ li.has-sub {
     overflow: hidden;
 }   
 .login-progress-bar-inner {
-    padding: 5px 0px;
+    padding: 3px 0px;
     background: #35b7f3;
     width: 0;
 }
@@ -2027,11 +2028,4 @@ li.has-sub {
 .form-group.cus-protext .form-control::placeholder{
     font-size: 15px !important;
 }
-@media screen and (max-width: 480px){
-    .login-stap-progress{
-        margin-top: 0px;
-    }
-    .login-stap-progress{
-        padding: 0px 20px;
-    }
-}
+
