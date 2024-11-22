@@ -1951,10 +1951,13 @@ li.has-sub {
 }
 
 
-.field-box-sec{
+.login-page-area{
     display: flex;
-    align-content: center;
+    align-items: center;
     justify-content: center;
+}
+.field-box-sec{
+    height: min-content;
 }
 .login-page-area footer .bottom-footer{
     position: fixed;
