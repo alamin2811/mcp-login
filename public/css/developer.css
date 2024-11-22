@@ -1950,6 +1950,12 @@ li.has-sub {
     content: none;
 }
 
+
+.field-box-sec{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
 .login-page-area footer .bottom-footer{
     position: fixed;
     z-index: 999;
